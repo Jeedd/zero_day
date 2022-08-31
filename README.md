@@ -1,1 +1,1 @@
-This is a new read me file in the repo
+This is the read me file in the root directory
